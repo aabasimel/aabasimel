@@ -34,13 +34,6 @@
 
 ---
 
-## 📌 Featured Projects  
-- 🔹 [**Library Management System**](https://github.com/aabasimel/library-management-system) – A system for managing books, users, and borrowing history with admin features.  
-- 🔹 [**E-commerce Platform**](https://github.com/aabasimel/ecommerce-app) – Full-stack application with product browsing, cart, and checkout features.  
-- 🔹 [**Chat App**](https://github.com/aabasimel/chat-app) – Real-time chat app built with React and Firebase.  
-
----
-
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
