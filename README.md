@@ -9,7 +9,7 @@
 - 💡 Started software engineering because *I’ve always been fascinated by solving problems and building things that make life easier*  
 - ❤️ Passionate about *building scalable applications, databases, and applying data-driven decision-making*  
 - 🎯 My vision is to *leverage technology to solve real-world problems in education and business through impactful software solutions*  
-- 👀 Interested in projects like *library management systems, e-commerce platforms, chat applications, and data visualization tools*  
+- 👀Excited to work on real-world software solutions that improve efficiency, collaboration, and accessibility
 
 ---
 
