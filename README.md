@@ -58,10 +58,10 @@
 
 ## 🌍 Let’s Connect!  
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-basim-el-123456" target="blank">
+  <a href="https://www.linkedin.com/in/ahmed-abasimel-1948b3328/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ahmed.basim@example.com" target="blank">
+  <a href="mailto:abasimelahmed@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://aabasimel.github.io/portfolio" target="blank">
