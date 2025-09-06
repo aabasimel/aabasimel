@@ -3,9 +3,8 @@
 <h3 align="center">A passionate Software Engineer  🚀</h3>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=aabasimel&style=flat-square)
 
-```markdown
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Backend development at ALX**  
