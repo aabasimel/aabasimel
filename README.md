@@ -4,6 +4,9 @@
 
 ---
 
+```markdown
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
+
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Backend development at ALX**  
 - 💡 Started software engineering because *I’ve always been fascinated by solving problems and building things that make life easier*  
