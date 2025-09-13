@@ -5,8 +5,6 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=aabasimel&style=flat-square)
 
-![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aabasimel&theme=radical)
-
 
 
 ## 👨‍💻 About Me  
