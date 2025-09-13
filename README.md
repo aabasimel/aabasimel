@@ -5,6 +5,9 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=aabasimel&style=flat-square)
 
+![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aabasimel&theme=radical)
+
+
 
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Backend development at ALX**  
@@ -42,7 +45,6 @@
 
 
 ---
-![Daily Activity](https://img.shields.io/badge/Daily%20Active-🔥-red)
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
