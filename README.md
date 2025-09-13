@@ -44,15 +44,21 @@
 
 
 ---
-## 📈 GitHub Stats 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aabasimel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aabasimel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<p align="center"> 
+<!--<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aabasimel&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" /> 
 
-</p>
+</p>--
 ---
 
 ## 🏆 GitHub Trophies
@@ -80,13 +86,6 @@
 </p>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aabasimel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aabasimel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
