@@ -42,7 +42,7 @@
 
 
 ---
-
+![Daily Activity](https://img.shields.io/badge/Daily%20Active-🔥-red)
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
