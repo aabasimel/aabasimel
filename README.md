@@ -44,17 +44,11 @@
 
 ---
 ## 📈 GitHub Stats  
-<p align="center">
-  <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats" width="48%" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aabasimel&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" /> 
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aabasimel&theme=radical&hide_border=true" alt="Ahmed's GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&show_icons=true&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="60%" />
 </p>
 ---
 
