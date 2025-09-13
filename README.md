@@ -43,13 +43,25 @@
 
 
 ---
-## 📈 GitHub Stats  
-<p align="center"> 
+## 📈 GitHub Stats 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 25px 0;">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&border_radius=15)](https://github.com/aabasimel)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=aabasimel&theme=radical&hide_border=true&background=00000000&border_radius=15&fire=ff6b6b&currStreakLabel=4ecdc4)](https://github.com/aabasimel)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff&layout=compact&border_radius=15)](https://github.com/aabasimel)
+
+</div>
+
+</div>
+
+<!--<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aabasimel&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" /> 
 
-</p>
+</p> -->
 ---
 
 ## 🏆 GitHub Trophies
