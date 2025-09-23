@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate Software Engineer  🚀</h3>
+<h3 align="center"></h3>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=aabasimel&style=flat-square)
