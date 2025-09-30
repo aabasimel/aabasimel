@@ -72,6 +72,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aabasimel&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+
 ## 🎓 Education & Certifications  
 - 🎓 ALX Software Engineering Program – *Ongoing*  
 - 🎓 BSc in Computer Science at Constructor University – *Ongoing*  
