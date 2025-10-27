@@ -1,18 +1,16 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center"></h3>
+<h3 align="center">Aspiring Backend Developer</h3>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=aabasimel&style=flat-square)
 
-
-
 ## 👨‍💻 About Me  
 - 🌱 Currently learning **Backend development at ALX**  
-- 💡 Started software engineering because *I’ve always been fascinated by solving problems and building things that make life easier*  
+- 💡 Started software engineering because *I've always been fascinated by solving problems and building things that make life easier*  
 - ❤️ Passionate about *building scalable applications, databases, and applying data-driven decision-making*  
 - 🎯 My vision is to *leverage technology to solve real-world problems in education and business through impactful software solutions*  
-- 👀Excited to work on real-world software solutions that improve efficiency, collaboration, and accessibility
+- 👀 Excited to work on real-world software solutions that improve efficiency, collaboration, and accessibility
 
 ---
 
@@ -38,41 +36,30 @@
   <img src="https://img.shields.io/badge/Git_Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-
-
 ---
 
+## 📊 GitHub Stats
 
----
-# 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aabasimel&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aabasimel&icon=0&color=0)](https://visitcount.itsvg.in)
--->
 ![](https://github-readme-stats.vercel.app/api?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=aabasimel&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aabasimel&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=aabasimel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!--<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=aabasimel&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aabasimel&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabasimel&show_icons=true&layout=compact&theme=radical" alt="Most Used Languages" /> 
-
-</p>-->
 ---
 
 ## 🏆 GitHub Trophies
+
+### Option 1: GitHub Profile Trophy
+![](https://github-profile-trophy.vercel.app/?username=aabasimel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### Option 2: GitHub Trophy (Alternative)
+![](https://github-trophies.vercel.app/?username=aabasimel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### Option 3: Simple Achievement Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aabasimel&theme=radical&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aabasimel&repo=your-repo&theme=radical" alt="Pinned Repo">
 </p>
 
-
+---
 
 ## 🎓 Education & Certifications  
 - 🎓 ALX Software Engineering Program – *Ongoing*  
@@ -80,7 +67,7 @@
 
 ---
 
-## 🌍 Let’s Connect!  
+## 🌍 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-abasimel-1948b3328/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -93,12 +80,6 @@
   </a>
 </p>
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ---
 
-⭐️ *“Striving to learn, build, and grow one project at a time.”*
+⭐️ *"Striving to learn, build, and grow one project at a time."*
