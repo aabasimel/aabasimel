@@ -48,16 +48,12 @@
 
 ## 🏆 GitHub Trophies
 
-### Option 1: GitHub Profile Trophy
+###  GitHub Profile Trophy
 ![](https://github-profile-trophy.vercel.app/?username=aabasimel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Option 2: GitHub Trophy (Alternative)
+###  GitHub Trophy 
 ![](https://github-trophies.vercel.app/?username=aabasimel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Option 3: Simple Achievement Badges
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aabasimel&repo=your-repo&theme=radical" alt="Pinned Repo">
-</p>
 
 ---
 
