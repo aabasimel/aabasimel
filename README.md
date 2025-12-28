@@ -52,7 +52,7 @@
 ---
 
 ## 🎓 Education & Certifications  
-- 🎓 ALX Software Engineering Program – *Ongoing*  
+- 🎓 ALX Software Engineering Program – *Completed*  
 - 🎓 BSc in Computer Science at Constructor University – *Ongoing*  
 
 ---
