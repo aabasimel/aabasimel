@@ -6,7 +6,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aabasimel&style=flat-square)
 
 ## 👨‍💻 About Me  
-- 🌱 Currently learning **Backend development at ALX**  
 - 💡 Started software engineering because *I've always been fascinated by solving problems and building things that make life easier*  
 - ❤️ Passionate about *building scalable applications, databases, and applying data-driven decision-making*  
 - 🎯 My vision is to *leverage technology to solve real-world problems in education and business through impactful software solutions*  
